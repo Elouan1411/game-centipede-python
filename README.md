@@ -1,2 +1,2 @@
 # game-centipede-python
-Repoduction of the game Centipede in Atari 2000 on borne arcade with python and pygame
+Reproduction of the game Centipede from the Atari 2000 arcade cabinet using Python and Pygame.
