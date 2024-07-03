@@ -1,0 +1,257 @@
+{
+    "window": {
+        "DIM_SCENE": [
+            720,
+            500
+        ],
+        "FPS": 60,
+        "FULL_SCREEN": {
+            "boolean": true,
+            "LIST": [
+                "size",
+                "speed",
+                "height",
+                "width",
+                "spacing",
+                "margin",
+                "small_d",
+                "medium_d",
+                "long_d",
+                "big_d",
+                "speed_dwarf"
+            ]
+        }
+    },
+    "update_level": {
+        "1": [
+            "speed",
+            "proba_appareance"
+        ],
+        "2": [
+            "nbMax"
+        ]
+    },
+    "scene": {
+        "background_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "font": {
+        "general": {
+            "size": 50,
+            "spacing": 30,
+            "color": {
+                "white": [
+                    255,
+                    255,
+                    255
+                ],
+                "black": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        "score": {
+            "PATH": "assets/fonts/arcade.ttf",
+            "dim": {
+                "big_d": 120,
+                "medium_d": 30,
+                "small_d": 20
+            },
+            "color": {
+                "white": [
+                    255,
+                    255,
+                    255
+                ],
+                "gray": [
+                    77,
+                    77,
+                    77
+                ],
+                "black": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "spacing": 25
+        },
+        "game": {
+            "PATH": "assets/fonts/game_font.ttf",
+            "dim": {
+                "big_d": 60,
+                "medium_d": 30,
+                "small_d": 20
+            },
+            "color": {
+                "white": [
+                    255,
+                    255,
+                    255
+                ],
+                "black": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "spacing": 60
+        }
+    },
+    "point": {
+        "spider": {
+            "rules_distance": {
+                "small_d": 100,
+                "medium_d": 150,
+                "long_d": 200
+            },
+            "values": {
+                "small": 300,
+                "medium": 600,
+                "long": 900
+            }
+        },
+        "marble": {
+            "head": 100,
+            "body": 10
+        },
+        "mushroom": 1,
+        "flea": 200
+    },
+    "dwarf": {
+        "height": 2,
+        "PERSCENTAGE_HEIGHT": 0.6,
+        "width": 2,
+        "size": 17,
+        "speed_dwarf": 30,
+        "life": {
+            "image": "assets/images/dwarf.png",
+            "size": 14,
+            "margin": 10
+        }
+    },
+    "mushroom": {
+        "nbMax": 35,
+        "size": 20
+    },
+    "spider": {
+        "size": 35,
+        "speed": 10,
+        "waiting_hide": [
+            30,
+            60
+        ],
+        "waiting": [
+            25,
+            40
+        ]
+    },
+    "flea": {
+        "size": 20,
+        "speed": 23,
+        "proba_appareance": 5
+    },
+    "marble": {
+        "width": 0,
+        "height": 15,
+        "PERSCENTAGE_HEIGHT": 0.65,
+        "speed": 15,
+        "size": 20
+    },
+    "centipede": {
+        "length": 11
+    },
+    "shot": {
+        "width": 5,
+        "height": 60,
+        "speed": 80
+    },
+    "animation": {
+        "explosion": {
+            "FRAME_RATE": 25,
+            "size": 130,
+            "OFF_SET": {
+                "width": 14,
+                "height": 18
+            }
+        }
+    },
+    "audios": {
+        "wall": {
+            "volume": 1,
+            "PATH": "assets/sounds/wall.ogg"
+        },
+        "arcade": {
+            "volume": 0.5,
+            "PATH": "assets/sounds/arcade.ogg"
+        },
+        "niv": {
+            "volume": 1,
+            "PATH": "assets/sounds/new_niv.ogg"
+        },
+        "shot": {
+            "volume": 0.3,
+            "PATH": "assets/sounds/shot.ogg"
+        },
+        "dead": {
+            "volume": 1,
+            "PATH": "assets/sounds/dead.ogg"
+        },
+        "game_over": {
+            "volume": 1,
+            "PATH": "assets/sounds/game_over.ogg"
+        }
+    },
+    "images": {
+        "welcome": {
+            "size": 800,
+            "PATH": "assets/images/welcome.png"
+        }
+    },
+    "welcome_page": {
+        "image": {
+            "PATH": "assets/images/welcome_centipede.png",
+            "width": 900
+        },
+        "gap": 4
+    },
+    "break": {
+        "PATH": "assets/images/transparent.png",
+        "width": 900
+    },
+    "high_score": 5655,
+    "button": {
+        "pause": {
+            "margin": 3,
+            "size": 20,
+            "PATH": "assets/images/pause_button.png"
+        },
+        "play": {
+            "margin": 3,
+            "size": 20,
+            "PATH": "assets/images/play_button.png"
+        },
+        "dark": {
+            "margin": 3,
+            "size": 20,
+            "PATH": "assets/images/dark_button.png"
+        }
+    },
+    "color": {
+        "black": [
+            0,
+            0,
+            0
+        ],
+        "white": [
+            217,
+            217,
+            217
+        ]
+    }
+}
