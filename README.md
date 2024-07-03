@@ -32,8 +32,8 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/centipede-game.git
-    cd centipede-game
+    git clone https://github.com/yourusername/centipede-game-python.git
+    cd centipede-game-python
     ```
 
 2. Install the required packages:
