@@ -25,6 +25,7 @@ Centipede is an arcade game where the player controls a dwarf character, navigat
 - Shooting with the space bar
 - Sound effects for various actions
 - Dynamic color changes based on levels
+- **Dark mode and light mode:** Switch between dark and light modes during gameplay
 
 ## Installation
 
@@ -56,6 +57,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 3. Use the following controls to play:
     - Arrow keys to move the dwarf
     - Space bar to shoot
+    - **Toggle dark/light mode**: Press `D` to switch between dark and light modes
 
 ## Game Mechanics
 
@@ -65,6 +67,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 - **Levels:** As you progress through the levels, the game becomes increasingly challenging with more enemies and obstacles.
 - **Colors:** The game’s color scheme changes with each level to enhance the visual experience.
 - **Sounds:** Different sounds play based on the player's actions, like shooting or hitting targets.
+- **Modes:** Switch between dark and light modes during gameplay by pressing `D`.
 
 ## License
 
