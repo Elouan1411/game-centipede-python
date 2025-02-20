@@ -9,7 +9,6 @@ Welcome to the Centipede game developed using Python and Pygame! This project is
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Game Mechanics](#game-mechanics)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
