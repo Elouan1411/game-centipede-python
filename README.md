@@ -69,10 +69,6 @@ Ensure you have Python installed on your system. You can download it from [pytho
 - **Sounds:** Different sounds play based on the player's actions, like shooting or hitting targets.
 - **Modes:** Switch between dark and light modes during gameplay by pressing `D`.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Samia Benali for designing all the images used in the game.
