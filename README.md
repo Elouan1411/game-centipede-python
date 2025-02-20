@@ -56,7 +56,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 3. Use the following controls to play:
     - Arrow keys to move the dwarf
     - Space bar to shoot
-    - **Toggle dark/light mode**: Press `D` to switch between dark and light modes
+    - **Toggle dark/light mode**: Press the button to switch between dark and light modes
 
 ## Game Mechanics
 
